@@ -1,0 +1,26 @@
+{
+  "name": "fetchme",
+  "version": "1.0.0",
+  "description": "answer question on dns",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SmitPatel-31/fetchme.git"
+  },
+  "keywords": [
+    "DNS"
+  ],
+  "author": "Smit Patel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SmitPatel-31/fetchme/issues"
+  },
+  "homepage": "https://github.com/SmitPatel-31/fetchme#readme",
+  "dependencies": {
+    "denamed": "^2.0.4"
+  }
+}
